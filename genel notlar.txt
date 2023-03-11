@@ -1,3 +1,0 @@
-Bulunduğu  yerin tamamını kaplayan elementlere block element denir.
-Bizim yazdığımız yer kadar kaplıyorsa inline elementtir.
-
