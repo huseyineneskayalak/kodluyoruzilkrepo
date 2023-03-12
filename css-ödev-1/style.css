@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-color: rgb(247, 240, 240);
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h1{
+    color: rgb(203, 12, 12);
+    text-transform: uppercase;
+}
+
+a {
+    text-indent: 5px;
+    font-size: 16px;
+}
+
+h2 {
+    color:rgb(193, 23, 193);
+    margin-bottom: 25px;
+}
+
+h3 {
+    color: black;
+}
+
+ol {
+    list-style-position: inside;
+    font-size: 20px;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    border-radius: 25px;
+    margin-bottom: 10px;
+}
+
+.vizyon-misyon {
+    text-align: left;
+}
